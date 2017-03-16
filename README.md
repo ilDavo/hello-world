@@ -1,2 +1,4 @@
 # hello-world
-First project in FitHub
+First project in GitHub
+
+I'm ilDavo, ready to be a GitHuber!
